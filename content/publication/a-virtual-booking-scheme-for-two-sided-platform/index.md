@@ -7,10 +7,7 @@ authors:
   - Long He
   - Zhenyu Hu
   - Jun Jiang
-author_notes:
-  - Long He
-  - Zhenyu Hu
-  - Jun Jiang
+author_notes: []
 publication_short: Work-in-progress
 draft: false
 featured: false
